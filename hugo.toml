@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://eggtart.lyc.sh'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'eggTart is Taco'
 theme = "hugo-theme-console"
